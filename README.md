@@ -1,10 +1,14 @@
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/corneliuxx/Wechat-afr) 
+
+
+
 # flutter_wechat
 
-#### 🔥A flutter app which clones wechat，it's on the roadmw！ 这是一个仿照微信样式基于flutter实现的app，还在继续完善中，欢迎提pull request 
+#### 🔥A flutter app which clones wechat, it's on the roadmw! This is an app based on flutter, which is modeled after WeChat, and is still being improved.pull request 
 
-> 包含了flutter中基本所有的组件，适合以此项目进行flutter学习。
+> Contains basically all the components in flutter, which is suitable for flutter learning in this project.
 
-[最新体验Apk点此下载](http://dzou.wangminwei.top/app-release.apk)(Note:头像图片资源有墙)
+[Latest experience Apk Click here to download](http://dzou.wangminwei.top/app-release.apk)(Note:Avatar picture resource has wall)
 ## 页面展示
 <p float="center">
   <img src="https://github.com/ding-zou/flutter-wechat/blob/master/snapshot/sr.gif" width="400" />
@@ -33,33 +37,27 @@
 
 ## DONE
 
-- [x] 首页
-- [x] 通讯录页(通讯录页字母表跳转,点击长按字母弹窗)
-- [x] 发现页
-- [x] 我的页面
-- [x] 聊天页
-- [x] 搜索页
-- [x] Splash页
-- [x] 二维码扫描页(native+flutter)
+- [x] Home
+- [x] Contacts page (Albums page jumps, click and hold the letter to pop up the window)
+-[x] Discovery page
+-[x] My Page
+-[x] chat page
+-[x] search page
+-[x] Splash page
+-[x] QR code scan page (native + flutter)
 
 ## TODO
 
 
 
-- [ ] 朋友圈页面
-- [ ] 我的资料卡片页
-- [ ] 设置页
-- [ ] 支付页
+- [ ]Friends circle page
+-[] My profile card
+-[] Settings page
+-[] Payment page
 
 
 
-## 联系方式
 
-Gmail: [dingxiang.zoufubo@gmail.com](mailto:dingxiang.zoufubo@gmail.com)
-
-QQ Email: [1774113002@qq.com](mailto:1774113002@qq.com)
-
-QQ: 1774113002
 
 ## Licenses
 
